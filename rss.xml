@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Brandon</title>
+        <link>https://Brajkumar1992.github.io</link>
+        <description>A simple blog theme focused on writing powered by Bulma and Zola</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://Brajkumar1992.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 17 Sep 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>My trip to Italy</title>
+            <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+            <link>https://Brajkumar1992.github.io/posts/italy-trip/</link>
+            <guid>https://Brajkumar1992.github.io/posts/italy-trip/</guid>
+            <description>&lt;p&gt;Excited.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>My trip to the UK with WAKE</title>
+            <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://Brajkumar1992.github.io/posts/wake-trip/</link>
+            <guid>https://Brajkumar1992.github.io/posts/wake-trip/</guid>
+            <description>&lt;p&gt;I had a great trip.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
