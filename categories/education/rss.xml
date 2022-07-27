@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Brandon Rajkumar - Education</title>
+        <link>https://Brajkumar1992.github.io</link>
+        <description>A outline of my professional career.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://Brajkumar1992.github.io/categories/education/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>MPHil Physics (Solar Astronomy)</title>
+            <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+            <link>https://Brajkumar1992.github.io/Education/mphil/</link>
+            <guid>https://Brajkumar1992.github.io/Education/mphil/</guid>
+            <description>&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;&#x2F;AR1.png&quot; alt=&quot;Active Region&quot; width=&quot;500&quot;&#x2F;&gt;
+&lt;p&gt;2016-2021   &lt;em&gt;The University of the West Indies&lt;&#x2F;em&gt;   St. Augustine&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;MPhil. Physics (Focus - Solar Astronomy): Awarded with High Commendation&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Thesis Title:&lt;&#x2F;strong&gt; A Fractal Analysis of Umbrae, Penumbrae and Magnetograms within Active Regions.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;&#x2F;strong&gt; The scale free fractal dimensions were determined for the umbral and penumbral regions as well as the underlying magnetic field regions of 16 active regions observed between June-November 2015. Hi-resolution white light images were obtained from the University College of the Cayman Islands (UCCI) Observatory on the Grand Cayman while magnetograms were obtained from the Joint Science Operations Centre (JSOC). The area-perimeter method was used, and the fractal dimensions of umbral and penumbral regions were found to be 2.09 ± 0.42 and 1.72 ± 0.4 respectively with strong and weak magnetic field groups having fractal dimensions of 1.79 ± 0.49 and 1.96 ± 0.29 respectively. Using the fractal dimensions as an indicator for complexity, it was observed that complex, weak magnetic fields produce less complex penumbral regions while less complex, strong magnetic fields produce more complex umbral regions. This observation supports the recent model of sunspot formation where strong magnetic fields are trapped within the umbra reducing their freedom of motion indicated by the lower fractal dimension while unbound, weak magnetic fields found in penumbral regions are indicated by higher fractal dimensions. However, the reduced temperature caused by trapping of the strong magnetic fields in the umbral regions lead to more complex umbral structures while higher temperatures in penumbral regions form less complex penumbral structures as indicated by the respective fractal dimensions. An initial temporal analysis of the umbral and penumbral structures’ reveals a correlation which indicates that the changes in complexity between regions may be linked.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>BSc. General (Major - Physics, Minors - Environmental Physics and Material Science)</title>
+            <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+            <link>https://Brajkumar1992.github.io/Education/bsc/</link>
+            <guid>https://Brajkumar1992.github.io/Education/bsc/</guid>
+            <description>&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;&#x2F;satu2.jpg&quot; alt=&quot;LX 200&quot; width=&quot;300&quot;&#x2F;&gt;
+&lt;p&gt;2011-2016   &lt;em&gt;The University of the West Indies&lt;&#x2F;em&gt;   St. Augustine&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;BSc General (Major – Physics, Minors – Environmental Physics and Material Science)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Thesis Title:&lt;&#x2F;strong&gt; Observational Astronomy: The Re-Installation of the Meade 16&amp;quot; LX200&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;&#x2F;strong&gt; With the growth of Astronomy in the Caribbean, Trinidad and Tobago and the University of the West Indies, it is clear that the availability of observational research at the Department of Physics, would be a valuable asset to the UWI, St. Augustine. As such, the re-installation of the Meade 16&amp;quot; LX200 at the SATU Observatory for the purpose of scientific research and teaching was commissioned. To determine the most suitable research area for the LX200, tests to determine the systems limits were completed. The image scale was determined to be 20.82 by 20.82 arc minutes. It was also noted that, while the center of the image frame appeared free of aberrations, the degree of coma increased toward the edges. A field curvature of 24.9% and a tilt of 49% at a 59 degree angle were also discovered. These limits revealed that the LX200 would be best suited for collecting photometric data. It was suggested that the telescope be upgraded to perform wide field photometric surveys by replacing the OTA and installing a corrector lens to remove aberrations as well as replacing the CCD with a new SBIG STX-16803 CCD which would increase the image scale to 42 by 42 arc minutes.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
