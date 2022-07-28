@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Brandon Rajkumar - Publications</title>
+        <link>https://Brajkumar1992.github.io</link>
+        <description>A outline of my professional career.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://Brajkumar1992.github.io/categories/publications/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>A Fractal Analysis of Magnetograms Within Active Regions</title>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+            <link>https://Brajkumar1992.github.io/Publications/paper1/</link>
+            <guid>https://Brajkumar1992.github.io/Publications/paper1/</guid>
+            <description>&lt;p&gt;Rajkumar, Brandon, and Shirin Haque. 2020. &amp;quot;A Fractal Analysis of Magnetograms Within Active Regions.&amp;quot; Solar Physics 295 (2): 1-12. doi: 10.1007&#x2F;s11207-017-1184-2.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract -&lt;&#x2F;strong&gt; The magnetograms of sixteen Active Regions, observed during June - November 2015, were obtained from the Joint Science Operations Center and used to determine the fractal dimensions of various magnetic field groups. The fields were divided into strong (positive and negative) and weak (positive and negative) groupings. The area-perimeter method was used to determine the fractal dimensions for the umbral and penumbral regions of the magnetograms. The fractal dimensions were found to be 1.79 ± 0.49 and 1.96 ± 0.29 for strong and weak magnetic fields respectively. When compared to the umbral and penumbral fractal dimensions determined by (Rajkumar, Haque and Hrudey, 2017) using white light images, an inverse relationship was found, with the umbra showing lower fractal dimensions than the penumbra for the magnetic field groups compared to the intensity images. This directly implies that there is greater complexity in the penumbral magnetic field groupings than the umbral region. This has implications for models that constrain how the magnetic field groups are contained in the cooler umbral regions.&lt;&#x2F;p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;mag1.jpg&quot; alt=&quot;Magnetogram&quot; width=&quot;500&quot;&#x2F;&gt;
+&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Fractal Dimensions of Umbral and Penumbral Regions of Sunspots.</title>
+            <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+            <link>https://Brajkumar1992.github.io/Publications/paper2/</link>
+            <guid>https://Brajkumar1992.github.io/Publications/paper2/</guid>
+            <description>&lt;p&gt;Rajkumar, B, S Haque, and W Hrudey. 2017. &amp;quot;Fractal dimensions of umbral and penumbral regions of sunspots.&amp;quot; Solar Physics 292 (11): 1-16.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract -&lt;&#x2F;strong&gt; The images of sunspots in sixteen active regions taken at the UCCI Observatory in Grand Cayman during June - November 2015, were used to determine their fractal dimensions using the perimeter-area method for the umbral and the penumbral region. Scale free fractal dimensions of 2.09 ± 0.42 and 1.72 ± 0.4 were found respectively. This value was higher than the value determined by Chumak and Chumak (1996) who used a similar method but for the penumbral region only for their sample set. There is a positive correlation r = 0.58 between umbral and the penumbral fractal dimensions for the specific sunspots. Furthermore, a time series analysis was done similarly on eight images of AR 12403, from 21st August 2015 - 28th August 2015 taken from the Debrecen Photoheliographic Data (DPD). The correlation, r = 0.623 between the umbral and penumbral fractal dimensions in the time series indicating that the complexity in morphology indicated by the fractal dimension between the umbra and penumbra followed each other in time as well.&lt;&#x2F;p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;sun1.jpg&quot; alt=&quot;White Light&quot; width=&quot;500&quot;&#x2F;&gt;
+&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

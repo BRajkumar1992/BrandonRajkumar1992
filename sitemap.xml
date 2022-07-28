@@ -21,6 +21,14 @@
         <loc>https://Brajkumar1992.github.io/Publications/</loc>
     </url>
     <url>
+        <loc>https://Brajkumar1992.github.io/Publications/paper1/</loc>
+        <lastmod>2020-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/Publications/paper2/</loc>
+        <lastmod>2017-01-01</lastmod>
+    </url>
+    <url>
         <loc>https://Brajkumar1992.github.io/categories/</loc>
     </url>
     <url>
@@ -30,7 +38,19 @@
         <loc>https://Brajkumar1992.github.io/categories/education/page/1/</loc>
     </url>
     <url>
+        <loc>https://Brajkumar1992.github.io/categories/publications/</loc>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/categories/publications/page/1/</loc>
+    </url>
+    <url>
         <loc>https://Brajkumar1992.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/tags/active-regions/</loc>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/tags/active-regions/page/1/</loc>
     </url>
     <url>
         <loc>https://Brajkumar1992.github.io/tags/bsc/</loc>
@@ -39,10 +59,22 @@
         <loc>https://Brajkumar1992.github.io/tags/bsc/page/1/</loc>
     </url>
     <url>
+        <loc>https://Brajkumar1992.github.io/tags/fractals/</loc>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/tags/fractals/page/1/</loc>
+    </url>
+    <url>
         <loc>https://Brajkumar1992.github.io/tags/instrumentation/</loc>
     </url>
     <url>
         <loc>https://Brajkumar1992.github.io/tags/instrumentation/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/tags/magnetograms/</loc>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/tags/magnetograms/page/1/</loc>
     </url>
     <url>
         <loc>https://Brajkumar1992.github.io/tags/mphil/</loc>
@@ -61,5 +93,11 @@
     </url>
     <url>
         <loc>https://Brajkumar1992.github.io/tags/solar-astronomy/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/tags/sunspots/</loc>
+    </url>
+    <url>
+        <loc>https://Brajkumar1992.github.io/tags/sunspots/page/1/</loc>
     </url>
 </urlset>
